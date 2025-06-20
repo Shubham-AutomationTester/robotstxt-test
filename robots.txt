@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /tumult.html
-Disallow: /ihda'.html
-Disallow: /william.html
-Disallow: /illinois.html

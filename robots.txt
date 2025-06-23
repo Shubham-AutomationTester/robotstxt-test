@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /durand.html
+Disallow: /adalbert.html
+Disallow: /fuse.html
+Disallow: /tumult.html
+Disallow: /max.html
+Disallow: /ihda'.html
+Disallow: /monster.html
+Disallow: /william.html
+Disallow: /samir.html
+Disallow: /illinois.html
+Disallow: /2018.html
